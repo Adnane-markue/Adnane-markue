@@ -1,6 +1,6 @@
 
 
-# <picture><img src = "Images/about_me.gif" width = 50px></picture> **About me**
+#  <picture><img src = "Images/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -69,15 +69,12 @@
 
 <br>
 
-#  **Certifications**
+## <img src = "Images/certification.svg" width =50px>**Certifications** 
+
 
 #
-
-- [**[DEEPLEARNING.AI] Machine Learning specialization**](https://coursera.org/verify/specialization/QFGAJYQYGWWV)
-- [**[DEEPLEARNING.AI] Neural Networks and Deep Learning**](https://coursera.org/verify/VEBP77VB4D56)
-- [**[DEEPLEARNING.AI] Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**](https://www.coursera.org/account/accomplishments/certificate/2B5D5GBHE4HG)
-- [**[DEEPLEARNING.AI] Convolutional Neural Networks in TensorFlow**](https://www.coursera.org/account/accomplishments/certificate/XKAR6BQQ6XBM)
-
+- [**[DEEPLEARNING.AI] Machine Learning specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/APNHLPVYYLBM)
+- [**[DEEPLEARNING.AI] Deep Learning with PyTorch : Image Segmentation**](https://www.coursera.org/account/accomplishments/certificate/FXDC74JEDVUK)
 #
 
 # **Statistics**
@@ -88,7 +85,7 @@
 
 <br>
 
-# **Connect with me**
+# <picture><img src = "Images/Connect-with-me.gif" width = 50px></picture> **Connect with me**
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanetouiyate/)
 [![image](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanetouiayte11@gmail.com)
