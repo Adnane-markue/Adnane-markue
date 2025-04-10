@@ -4,10 +4,17 @@
 
 <br>
 
-- 💻 I'm a Machine learningand software engineer engineer.
-- 🏫 I'm currently studying on my master's degree in artificial intelligence and virtual reality.
-- 🔎 **Looking for an internship opportunity in the field of machine learning.**
+**👋 Hello! I’m Adnane** I’m an **AI Engineer** passionate about turning intelligent systems into impactful real-world solutions. My work spans multiple AI domains, including deep learning, natural language processing, and 3D computer vision, with a strong focus on building models that solve real problems efficiently.
 
+🧠 What I Do: I specialize in building and fine-tuning machine learning and language models, transforming complex AI concepts into functional tools. My work spans across LLM optimization, NLP, temperature prediction with hybrid models, and human-in-the-loop systems. Whether it’s streamlining paper screening or crafting custom chatbots using RAG pipelines, I aim to build systems that are both powerful and practical.
+
+🎓 Academic Background: I’m pursuing a Master’s in Artificial Intelligence at Ibn Tofaïl University, Kenitra, Morocco, after earning my Bachelor’s in Mathematics and Computer Science from the same institution.
+
+🚀 Projects I'm Proud Of: From developing “Renderize,” an AI system that reconstructs 3D models from 2D images, to building “Darija Sentiment Analysis” for the Moroccan dialect, my portfolio bridges innovation and relevance. I’ve also spoken about AI at the AGORA Bootcamp and co-authored research published by OpenDevEd.
+
+🌐 Let’s Connect! Whether you're building the next AI-powered platform, exploring machine learning applications, or just want to geek out about neural nets and F1 racing —  
+📫 Reach out at **adnanetouiayte11@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/adnanetouiyate/) • [GitHub](https://github.com/Adnane-markue)
 # **My favorite tools**
 
 <br>
@@ -31,6 +38,9 @@
     <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="45px" alt="sklearn" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="45px" alt="numpy" />
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" height="45px" alt="numpy" />
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45px" alt="hugging face" />
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/by5xgptikfgqgx2tma7o" height="45px" alt="langchain" />
+    <img src="https://www.crewai.com/assets/crew_only-ce3e8e1afde0977caeaa861aab72f1cfee3c88a79127d6e2bea8d9b2066f5eb1.png" height="30px" alt="CrewAI" />
   </a>
 </p>
 <br>
@@ -41,7 +51,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,github,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,linux,github,docker,jenkins,postman,vscode,pycharm,selenium,linux&perline=14"  alt="git, linux, github, docker, jenkins, postman, vscode, python, selenium" />
   </a>
 </p>
 
